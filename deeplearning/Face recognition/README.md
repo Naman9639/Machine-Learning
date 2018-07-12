@@ -9,7 +9,7 @@ This is a 4 step procedure which is as follows:-
 # How to execute 
 
 1. Create a folder called 'face_recognition' or any name you like. Create another folder images inside this folder which will hold images of the different people you want to run face recognition on. Remember to number the images starting from 1.
-#### Note: make sure that all of those images only have ONE face in them (i.e. they can’t be group pictures) and they are all in JPEG format with filenames ending in .jpg.
+###### Note: make sure that all of those images only have ONE face in them (i.e. they can’t be group pictures) and they are all in JPEG format with filenames ending in .jpg.
 
 2. Make another folder named test which will contain different images of the same people whose pictures you stored in the images folder. Again, make sure that each picture only has one person in it.
 
@@ -18,5 +18,6 @@ This is a 4 step procedure which is as follows:-
 * shape_predictor_68_face_landmarks.dat.bz2 fom [here]("dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2")
 
 4. Extract and copy these dependencies into your project folder i.e face_recognition.
+
 5. Run the code and enjoy.
 
